@@ -1,4 +1,27 @@
 <!--miniprogram/pages/index/index.wxml-->
-<text>miniprogram/pages/index/index.wxml</text>
-<text>npm</text>
-<van-button type="default"> 按钮</van-button>
+
+
+
+
+<van-row>
+  <van-col>
+    <van-icon name="">
+
+    </van-icon>
+  </van-col>
+  
+</van-row>
+
+<van-row>
+  <van-col offset="12">
+    <text>npm</text>
+  </van-col>
+  
+</van-row>
+
+<van-row>
+  <van-col>
+      <van-button type="default"> 按钮</van-button>
+  </van-col>
+
+</van-row>

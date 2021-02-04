@@ -1,0 +1,12 @@
+<van-nav-bar
+title="商品界面"
+left-text="返回"
+left-arrow
+fixed="true"
+bind:click-left="onClickLeft"
+bind:click-right="onClickRight"
+placeholde="true"
+safe-area-inset-top="false"
+>
+<van-icon name="search" slot="right"/>
+</van-nav-bar>
